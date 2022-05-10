@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TabsDemo</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string-array name="cities">
+        <item>Иркутск</item>
+        <item>Москва</item>
+        <item>Воронеж</item>
+    </string-array>
+    <string name="temperature">Температура</string>
+    <string name="wind">Ветер</string>
+    <string name="feels_like">Ощущается как</string>
+    <string name="pressure">Давление</string>
+    <string name="description">Описание</string>
+    <string name="clouds">Облачно</string>
+    <string name="find">Добавить</string>
+    <string name="update">Обновить</string>
+    <string name="short_ver">краткая инфо.</string>
+    <string name="full_ver">Полная инфо.</string>
+</resources>
